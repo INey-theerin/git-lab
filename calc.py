@@ -10,4 +10,4 @@ def mulitply(a,b):
 def divide(a,b):
    return a/b
 def power(a,b):
-   pass #IDKso
+   return a**b
